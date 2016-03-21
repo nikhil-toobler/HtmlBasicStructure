@@ -1,0 +1,61 @@
+//font family
+$roboto                 : 'Roboto', sans-serif;
+$openSans               : 'Open Sans', sans-serif; 
+$lato                   : 'Lato', sans-serif;
+
+//variable colors
+$vivid-orange           : #f15f23;
+$coffee-brown           : #373230;
+$coffee-brown-light     : #6c6069;
+$coffee-brown-dark      : #6f666e;
+$grey                   : #cccccc;
+$grey-medium            : #666666;
+$grey-light             : #999999;
+$black                  : #000000;
+$white                  : #ffffff;
+$white-grey             : #f1f1f1;
+$gray-input             : #f8f9fa;
+$danger-red             : #ec1c24;
+$success-green          : #63c24a;
+$warning-orange         : #f39c12;
+
+
+// ============== site used colors ============
+
+//main colors  
+$primary-color          : $vivid-orange;
+$primary-dark-color     : darken(saturate($primary-color, 36), 18);
+$secondary-color        : $coffee-brown; 
+$secondary-dark-color   : darken($secondary-color, 7); 
+
+//text colors
+$default-font-color     : $coffee-brown-light;
+$title-font-color       : $coffee-brown-dark;
+
+//Fonts
+$font-family-base       : $openSans; // options: $roboto | $openSans | $lato 
+$title-font             : $openSans;
+$icon                   : 'icomoon';
+
+//background color
+$bg-color               : $white-grey;
+
+//button colors
+$primary-button         : $primary-color;
+$primary-button-hover   : $primary-dark-color;
+$secondary-button       : $secondary-color; 
+$secondary-button-hover : $secondary-dark-color;
+$default-button         : $white;
+$default-button-hover   : $white-grey;
+
+//radius
+$radius                 : 4px;
+$radius-sm              : 3px;
+$radius-lg              : 5px;
+
+//border-color
+$light-border           : #ececec;
+
+
+
+//additional Mixins
