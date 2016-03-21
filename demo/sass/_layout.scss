@@ -1,0 +1,71 @@
+a,
+input[type="radio"],
+input[type="checkbox"],
+button,
+select,
+.btn,
+.form-control{
+    @include transition(all, 0.3s, ease-in-out);
+    &:hover, 
+    &:focus, 
+    &:focus{
+        text-decoration: none;
+        outline:none !important;
+        outline-style:none; 
+        outline-width:0;
+    }
+}
+p{
+	font-size: 14px;
+}
+
+select:-moz-focusring {
+    color: transparent;
+    text-shadow: 0 0 0 #000;
+}
+button{
+    margin: 0;
+    padding: 0;
+}
+img{
+    max-width: 100%;
+}
+//safari browser additional inner shadow remove
+input[type="text"], 
+input[type="email"], 
+input[type="search"], 
+input[type="password"] {
+	-webkit-appearance: none;
+	-moz-appearance: none; /* mobile firefox too! */
+}
+a{
+    color: $default-font-color;
+    &:hover,
+    &:focus,
+    &:active{
+        color: $primary-color;
+        text-decoration: none;
+    }
+}
+h1,h2,h3,h4,h5,h6{
+	margin: 0;
+    color: $title-font-color;
+}
+p{
+    color: $default-font-color;
+    font-size: 15px;
+}
+img{
+    max-width: 100%;
+}
+textarea.form-control{
+    resize: vertical;
+}
+body{
+	font-family: $font-family-base;
+	color: $default-font-color;
+    font-size: 14px;
+    background-color: $bg-color;
+}
+
+////////////
