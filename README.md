@@ -15,5 +15,4 @@
     <li>Run Sass with config.rb [Ruby compass watch]</li>
     <li>jQuery [CDN] </li>
     <li>Common.js</li>
-    <li>jQuery</li>
 </ul>
