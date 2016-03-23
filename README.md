@@ -1,4 +1,4 @@
-<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Why Html Basic Structure</h3>
+<h1>HTML BASIC STRUCTURE</h1>
 <p>Every website need a basic components when start the devlopment of your new project, Here is the <b>Html Basic Structure</b> that can help you to save your time for spending inialize your new project, It's based on  <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a> the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.</p>
 <p> <b>Html Basic Structure</b> give you a clean customizable template with just what you need to start!</p>
 
