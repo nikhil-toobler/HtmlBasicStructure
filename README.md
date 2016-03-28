@@ -2,7 +2,7 @@
 <p>Every website need a basic components when start the devlopment of your new project, Here is the <b>Html Basic Structure</b> that can help you to save your time for spending inialize your new project, It's based on  <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a> the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.</p>
 <p> <b>Html Basic Structure</b> give you a clean customizable template with just what you need to start!</p>
 
-<h4>Check the demo page : <a href="http://nikhil-toobler.github.io/HtmlBasicStructure/" target="_blank">HtmlBasicStructure</a></h4>
+<h4>Check the demo page : <a href="https://github.com/nikhil8krishnan/HtmlBasicStructure" target="_blank">HtmlBasicStructure</a></h4>
 
 <h3>What's Included</h3>
 
